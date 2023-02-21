@@ -1,0 +1,37 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://zoomcar-assets.zoomcar.com/photographs/original/a49559a67ba1d5fd7e2ffea2f78f654691ee018e.png?1663874345",
+        "rating": 4.81,
+        "name": "Maruti Dzire",
+        "fueltype": "petrol",
+        "seatcapacity": 5,
+        "year": 2018,
+        "cartype": "sedan",
+        "price": 259,
+        "distance": 14.8,
+        "location": "pune"
+      },
+      {
+        "image": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+        "rating": "4.9",
+        "name": "baleno",
+        "fueltype": "petrol",
+        "seatcapacity": "5",
+        "year": "2019",
+        "cartype": "sedan",
+        "price": "254",
+        "distance": "12",
+        "location": "pune",
+        "id": 2
+      }
+    ],
+    "user": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "admin"
+      }
+    ]
+  }
