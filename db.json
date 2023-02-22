@@ -795,16 +795,19 @@
       "id": 61
     }
   ],
-  "user": [
+  "login": [
     {
       "id": 1,
       "username": "admin",
-      "password": "admin"
+      "password": "admin",
+      "name":"admin"
+     
     },
     {
-      "username": "parvati balaji dhore",
-      "password": "345",
-      "id": 2
+      "username": "sambhaji",
+      "password": "sambhaji",
+      "id": 2,
+      "name":"sambhaji"
     }
   ]
 }
