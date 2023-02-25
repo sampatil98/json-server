@@ -10,7 +10,7 @@
       "year": 2018,
       "cartype": "sedan",
       "price": 259,
-      "distance": 14.8,
+      "distance": 14,
       "location": "pune"
     },
     {
@@ -188,11 +188,11 @@
       "name": "Hyundai I20",
       "fueltype": "petrol",
       "seatcapacity": "4",
-      "year": "",
+      "year": "2017",
       "cartype": "sedan",
       "price": "270",
-      "distance": "",
-      "location": "",
+      "distance": "25",
+      "location": "pune",
       "id": 15
     },
     {
